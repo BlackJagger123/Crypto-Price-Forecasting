@@ -38,8 +38,8 @@ Model Deep Learning untuk memprediksi harga Bitcoin hingga **24 jam ke depan** m
 Clone repository:
 
 ```bash
-git clone https://github.com/BlackJagger123/REPOSITORY_NAME.git
-cd REPOSITORY_NAME
+git clone https://github.com/BlackJagger123/Crypto-Price-Forecasting.git
+cd Crypto-Price-Forecasting
 ```
 
 Install dependencies:
