@@ -25,12 +25,16 @@ Model Deep Learning untuk memprediksi harga Bitcoin hingga **24 jam ke depan** m
 
 ```text
 .
-├── Satrio Adi Baskoro_Submission_Akhir_DLTM.ipynb
+.
+├── Data/
+│   └── Bitcoin3.csv
+├── Notebook/
+│   └── Model.ipynb
+├── README.md
+├── best_model_seq2seq_LSTM.keras
 ├── model_baseline_LSTM.keras
 ├── model_seq2seq_LSTM.keras
-├── best_model_seq2seq_LSTM.keras
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 ## ⚙️ Setup
